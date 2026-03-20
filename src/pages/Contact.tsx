@@ -128,7 +128,7 @@ export default function Contact() {
                                     </div>
                                     <div>
                                         <h3 className="font-bold text-white mb-1">Email us</h3>
-                                        <a href="mailto:hello@justautomate.work" className="text-sm text-zinc-400 hover:text-neon-cyan transition-colors">hello@justautomate.work</a>
+                                        <a href="mailto:admin@justautomate.work" className="text-sm text-zinc-400 hover:text-neon-cyan transition-colors">admin@justautomate.work</a>
                                     </div>
                                 </div>
                             </div>

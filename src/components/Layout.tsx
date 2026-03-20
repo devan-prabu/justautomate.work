@@ -102,7 +102,7 @@ export default function Layout() {
                         <div>
                             <h4 className="text-xs font-mono uppercase tracking-widest text-zinc-400 mb-4">Contact</h4>
                             <ul className="space-y-2 text-sm text-zinc-500">
-                                <li><a href="mailto:hello@justautomate.work" className="hover:text-white transition-colors">hello@justautomate.work</a></li>
+                                <li><a href="mailto:admin@justautomate.work" className="hover:text-white transition-colors">admin@justautomate.work</a></li>
                             </ul>
                         </div>
                     </div>
